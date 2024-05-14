@@ -1,0 +1,8 @@
+TailWind CSS vs. Bootstrap: Which CSS Framework is Better?
+-Each provides a distinct set of features and benefits, helping and appealing to developers worldwide. 
+-However, based on the figures, Tailwind CSS has grown rapidly in popularity, with more than 40% of developers indicating a preference for its utility-first methodology and adjustable flexibility. 
+-In the meantime, Bootstrap—once the clear winner—continues to be a strong contender thanks to its devoted user base and extensive integration.
+-Bootstrap is one of the oldest CSS web development frameworks currently in use; it was established and open-sourced by Twitter in 2011. Its main purpose is to guarantee that web applications are adaptable and suitable for mobile devices. 
+-Tailwind CSS is another popular and highly adaptable CSS framework for creating modern and responsive user experiences. It was founded by Wathan and Steve Schoger founded Tailwind CSS in the year 2017. 
+-Tailwind CSS and Bootstrap, despite having different frameworks and philosophies, share several similarities in their approach to front-end development.
+Both frameworks abstract the actual CSS away from your workflow, so you don’t have to worry about writing a lot of CSS directly and can instead focus on developing your user experience. This is achievable because you simply need to include the various class names in your HTML code, and the frameworks will take care of the real CSS behind the scenes. 

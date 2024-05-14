@@ -1,0 +1,15 @@
+.card-contain>div {
+    width: calc((100% - 120px)/ 3) !important;
+}
+
+@media (max-width: 992px) {
+    .card-contain>div {
+        width: calc((100% - 80px)/ 3) !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .card-contain>div {
+        width: 100% !important;
+    }
+}
